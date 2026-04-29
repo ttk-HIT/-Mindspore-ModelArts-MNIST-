@@ -1,0 +1,6 @@
+{
+    "ckpt_path": "./ckpt\\checkpoint_lenet_6-10_1875.ckpt",
+    "accuracy": 0.9909855769230769,
+    "data_path": "./MNIST_Data",
+    "device_target": "CPU"
+}
