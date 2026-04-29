@@ -1,0 +1,4 @@
+时间：2026-04-21
+检查命令：python -c "import mindspore; print(mindspore.__version__)"
+结果：ModuleNotFoundError: No module named 'mindspore'
+说明：代码已补全，但当前环境缺少 MindSpore，无法在本机生成真实训练/评估日志。
