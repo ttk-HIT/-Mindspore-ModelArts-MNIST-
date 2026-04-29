@@ -1,4 +1,4 @@
-# 实验 2：LeNet MNIST（MindSpore）
+#LeNet MNIST（MindSpore）
 
 本目录是从 `materials/lenet` 独立整理出的可运行副本，已补全以下内容：
 
